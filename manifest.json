@@ -1,0 +1,20 @@
+{
+  "name": "InterviewPro Simulator",
+  "short_name": "InterviewPro",
+  "description": "Interactive technical interview simulator with real-time scoring and performance analysis",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0d9488",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect x='4' y='4' width='56' height='56' rx='16' fill='%230d9488'/><path d='M20 22h24v4H20zM20 30h18v4H20zM20 38h22v4H20z' fill='white'/><circle cx='48' cy='40' r='8' fill='%232563eb'/><path d='M45 40l2 2 4-4' stroke='white' stroke-width='2' fill='none'/></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "en"
+}
